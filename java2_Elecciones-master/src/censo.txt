@@ -1,0 +1,6 @@
+Ane,Anza,19584399H,24,mujer,698438812,Hernani
+Enaut,Gonzalez,59238174Y,18,hombre,691234593,India
+Leire,Manjon,29183729T,25,mujer,691285938,Donostia
+Illart,Betelu,79123412K,17,hombre,658123146,Castejon
+Nekane,Mendizabal,75845619L,24,mujer,666642390,Burgos
+Irati,Aretxaga,788434786U,14,mujer,695674972,Tolosa

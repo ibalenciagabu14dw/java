@@ -1,0 +1,10 @@
+4001,Leire,Manjon dorronsoro,false#false#false#false#false#false#false#false#false#false
+4002,Irati,Aretxaga Maiz,false#false#false#false#false#false#false#false#false#false
+4003,Illart,betelu Rodriguez,false#false#false#false#false#false#false#false#false#false
+4004,Nekane,Mendizabal arzelus,false#false#false#false#false#false#false#false#false#false
+4005,Ekaitz,Etxebeste Epelde,false#false#false#false#false#false#false#false#false#false
+4006,Ibai,Egia Soto,false#false#false#false#false#false#false#false#false#false
+4007,Ane,Anza Mendizabal,false#false#false#false#false#false#false#false#false#false
+4008,enaut,Gonzalez Rodriguez,false#false#false#false#false#false#false#false#false#false
+4009,Larraitz,Ventoso Cenzano,false#false#false#false#false#false#false#false#false#false
+4010,Inaki,beristain Agirre,false#false#false#false#false#false#false#false#false#false

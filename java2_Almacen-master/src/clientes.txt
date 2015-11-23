@@ -1,0 +1,4 @@
+Leire,Manjon Dorronsoro,77673458G,Donosti,Pescadores gran sol,25,20030,1,1.9
+Illart,Betelu Gonzalez,41256390T,Donosti,Zabaltoki,61,20450,476,2.0
+Irati,Arechaga Maiz,10049382Y,Tolosa,San Francisco,21,20100,1234,4.7
+Nekane,Mendizabal arzelus,30985734P,Burgos,San Bartolome,49,36015,134,3.8

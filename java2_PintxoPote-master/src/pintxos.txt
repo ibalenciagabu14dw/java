@@ -1,0 +1,20 @@
+1001#tortilla patata#patata;huevo;sal#1
+1003#foie#foie#2
+1002#chatka#chatka;mayonesa;huevo;cebolla#1
+1004#bola de carne#carne;pimiento;cebolla#2
+1005#bola de queso#queso;masa#2
+1006#pizza margarita#tomate;mozzarella;oregano#2
+1007#pizza jamon#tomate;jamon;queso#2
+1008#gamba#gamba;pimientos;aceite#1
+1009#bocadillo jamon#pan;jamon#1
+1010#bocadillo chorizo#pan;chorizo#1
+1011#confit pato#pato;salsa#2
+1012#tortilla bacalao#huevos;bacalao#2
+1013#pollo frito#pollo#1
+1014#patatas bravas#patata;salsa brava#2
+1015#patata alioli#patata;salsa alioli#2
+1016#curasan chatka#cuarasan;chatka;mayonesa#1
+1017#curasan jamon y queso#curasan;jamon;queso#1
+1018#croketa#perejil;bacalao;cebolla#2
+1019#brocheta de gambas#gambas;pimientos;salsa#2
+1020#sushi#arroz;algas;salsa#2

@@ -1,0 +1,16 @@
+
+/*
+ * programa que muestra los números del 10 al 1
+ */
+public class MuestraNumeros2
+{
+	public static void main(String[] args) 
+	{
+	//crea la variable	
+        int i;
+	//repite el ciclo 10 veces de manera regresiva
+        for(i=10; i>0;i--)
+            System.out.println(i + " ");//imprime i
+    }
+}
+

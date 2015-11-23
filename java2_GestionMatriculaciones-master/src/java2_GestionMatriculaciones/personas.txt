@@ -1,0 +1,13 @@
+71231892P,Ibai,Egia,Magisterio,magisterio
+78812317J,Ekaitz,Etxebeste,2011,magisterio,calculo,6,93451236B#Nekane#Mendizabal#Matematika#Matematika,2014,100;organika,5,69134234O#Itsaso3Etxeberria#Kimika#Kimika,2013,200;zuzenbide,7,52134532G#Leire#Manjon3trabajo social#trabajo social,2014,70;musika,2,71231892P#Ibai#Egia#Magisterio#Magisterio,2012,150
+52134532G,Leire,Manjon,trabajo social,trabajo social
+67934516J,Illart,Betelu,2011,trabajo social,calculo,6,93451236B#Nekane#Mendizabal#Matematika#Matematika,2014,100;organika,5,69134234O#Itsaso3Etxeberria#Kimika#Kimika,2013,200;zuzenbide,7,52134532G#Leire#Manjon3trabajo social#trabajo social,2014,70;musika,2,71231892P#Ibai#Egia#Magisterio#Magisterio,2012,150
+69134234O,Itsaso,Etxeberria,Kimika,Kimika
+13241367L,Irati,Aretxaga,2013,kimika,calculo,6,93451236B#Nekane#Mendizabal#Matematika#Matematika,2014,100;organika,5,69134234O#Itsaso3Etxeberria#Kimika#Kimika,2013,200;zuzenbide,7,52134532G#Leire#Manjon3trabajo social#trabajo social,2014,70;musika,2,71231892P#Ibai#Egia#Magisterio#Magisterio,2012,150
+93451236B,Nekane,Mendizabal,Matematika,Matematika
+72456723L,Ane,anza,2012,Matematika
+
+calculo;6;93451236B#Nekane#Mendizabal#Matematika#Matematika,2014,100
+organika;5;69134234O#Itsaso3Etxeberria#Kimika#Kimika,2013,200
+zuzenbide;7;52134532G#Leire#Manjon3trabajo social#trabajo social,2014,70
+musika;2;71231892P#Ibai#Egia#Magisterio#Magisterio,2012,150

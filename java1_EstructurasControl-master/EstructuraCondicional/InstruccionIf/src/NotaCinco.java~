@@ -1,0 +1,21 @@
+ /*
+ * Programa que pide una nota por teclado y muestra un mensaje si la nota es
+ * mayor o igual que 5
+ */
+import java.util.*;
+public class NotaCinco{
+public static void main( String[] args )
+{
+	//creacion de variables
+        Scanner sc = new Scanner( System.in );
+	//pide la nota y la lee
+        System.out.print("Nota: ");
+        int nota = sc.nextInt();
+	//si la nota es mayor o igual a 5 muestra los mensajes
+        if (nota >= 5 )
+	{
+        System.out.println("Enorabuena!!");
+        System.out.println("Has aprobado");
+        }
+    }
+}

@@ -1,0 +1,5 @@
+1,Podemos,Podemos,1400,Pablo Iglesias
+2,Eusko Alkartasuna,EA,373,Pello Urizar
+3,Partido Nacionalista Vasco,PNV,18,Iñigo Urkullu
+4,Partido Socialista,PSOE,250,Pedro Sanchez
+5,Partido Popular,PP,0,Mariano Rajoy

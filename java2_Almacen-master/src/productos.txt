@@ -1,0 +1,4 @@
+Manzana,golden,hawai,amarilla,3.0,Lidl#Enaut,12
+Lechuga,euskolabel,hernani,morada,5.0,BM#Ane,5
+Leche,avena,bilbo,8.0,Eroski#Ekaitz,4
+Manzana,sda,asd,asd,1.5,Carrefur#Bruno,14

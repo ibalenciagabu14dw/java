@@ -1,0 +1,3 @@
+1,Donostia,Boulevard 25,Donostia,Leire Manjon
+2,Hernani,Avenida 18,Hernani,Illart Betelu
+3,Tolosa,Plaza 01,Tolosa,Irati Aretxaga

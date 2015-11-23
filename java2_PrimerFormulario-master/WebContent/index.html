@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>PRIMER FORMULARIO</title>
+<script type="text/javascript">
+
+function carga(){
+	document.getElementById("nombre").focus();
+}
+function valideDatos(){
+	
+	var nombre = document.getElementById("matricula");
+	var apellido = document.getElementById("numRuedas");
+	var dni = document.getElementById("motor");
+	var aficiones = document.getElementById("marca");	
+	
+	if (nombre.value == "" || nombre.value == '' || nombre.value == null){
+		alert ("nombre");
+		return false;
+	} else if (apellido.value == "" || apellido.value == '' || apellido.value == null){
+		alert ("apellido");
+		return false;
+		
+	} else if (dni.value == "" || dni.value == '' || dni.value == null){
+		alert ("dni");
+		return false;
+	} else if (aficiones.value == "" || aficiones.value == '' || aficiones.value == null){
+		alert ("aficiones");
+		return false;
+
+	} else {
+		return true;
+	}
+}
+</script>
+
+
+</head>
+<body onload="carga();" >
+<h1>Inserta los datos personales</h1>
+	<form action="insertar-coche.jr" method="POST" onsubmit="return valideDatos();">
+		<label for="matricula">NOMBRE:</label><br />
+		<input type="text" id="nombre" name="nombre" value="" /> <br>
+		<label for="matricula">APELLIDO:</label><br />
+		<input type="text" id="apellido" name="apellido" value="" /> <br>
+		<label for="dni">DNI:</label><br />
+		<input type="text" id="dni" name="dni" value="" /> <br>
+		<label for="aficiones">AFICIONES</label><br />
+		<input type="checkbox" id="aficiones" name="aficiones" value="deporte">DEPORTE<br>
+  		<input type="checkbox" id="aficiones" name="aficiones" value="viajar" checked> VIAJAR<br>
+  		<input type="checkbox" id="aficiones" name="aficiones" value="estudiar" checked> ESTUDIAR<br>
+  		<input type="checkbox" id="aficiones" name="aficiones" value="dormir" checked> DORMIR<br>
+  		
+		<button type="submit" name="submit" value="1" >ENVIAR FORMULARIO</button>
+	</form>
+	
+</body>
+</html>/html>
